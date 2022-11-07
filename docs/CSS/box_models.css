@@ -1,0 +1,20 @@
+.dotted {
+  border-style: dotted;
+}
+.double {
+  border-style: double;
+}
+.solid {
+  border-style: solid;
+}
+.mixed {
+  border-style: solid double dotted dashed;
+}
+.solid-red {
+  border-style: solid;
+  border-color: purple;
+}
+.mixed-color {
+  border-style: solid;
+  border-color: blue rgba(255, 0, 0) rgba(0, 255, 0, 0.5) seagreen;
+}
