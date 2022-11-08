@@ -9,6 +9,7 @@
   background-color: yellow;
   padding: 20px;
   text-align: center;
+  margin: 10px auto 10px auto;
 }
 .li {
   display: inline-block;
