@@ -1,0 +1,16 @@
+* {
+  border: 1px solid grey;
+  font-size: 10px;
+}
+.outline-container {
+  display: flex;
+  justify-content: center;
+}
+
+.left-nav {
+  width: 150px;
+}
+
+.right-contents {
+  width: 400px;
+}
